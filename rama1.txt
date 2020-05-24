@@ -1,2 +1,4 @@
 Primera línea en rama1.txt
 Segunda línea en rama1.txt 
+Segundo cambio en master
+Nuevo cambio en master
