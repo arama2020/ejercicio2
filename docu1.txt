@@ -1,1 +1,3 @@
 Fichero docu1
+Creo una línea en docu1
+Creo otra línea en docu1
